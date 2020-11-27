@@ -1,0 +1,8 @@
+.todo__list {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+ListItem {
+  width: 50vw;
+}
